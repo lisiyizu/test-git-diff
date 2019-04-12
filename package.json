@@ -1,0 +1,22 @@
+{
+  "name": "test-git-diff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisiyizu/test-git-diff.git"
+  },
+  "gitHooks": {
+      "pre-push": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisiyizu/test-git-diff/issues"
+  },
+  "homepage": "https://github.com/lisiyizu/test-git-diff#readme"
+}
